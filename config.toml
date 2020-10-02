@@ -1,0 +1,4 @@
+baseURL = "http://bymeoryou.github.io/"
+languageCode = "en-us"
+title = "Florentia"
+theme = "vienna"
